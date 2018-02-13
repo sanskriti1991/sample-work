@@ -1,6 +1,5 @@
 # Sanskriti | itirksnaS
 
-![pp](https://sanskriti1991.github.io/web-samples/images/pp.jpg){ width=250px }
 Software Engineer skilled in implementing machine learning systems with python and scikit learn library with over 3 years of experience as a web application developer with background of ecommerce, telecom and education industry. I enjoy photography, travelling and cartoons.
 
 
