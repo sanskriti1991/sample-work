@@ -1,5 +1,3 @@
-# sample-work
-
 # Sanskriti | itirksnaS
 
 Software Engineer skilled in implementing machine learning systems with python and scikit learn library with over 3 years of experience as a web application developer with background of ecommerce, telecom and education industry. I enjoy photography, travelling and cartoons.
@@ -23,8 +21,14 @@ Few html css mockups and Java script functions - 3D rendering library, forms and
 | [CSS Customization of template](https://sanskriti1991.github.io/web-samples/Boilerplate/Boilerplate/index1.html)   | Customized css template. |
 | [JavaScript Rendering Library](https://sanskriti1991.github.io/web-samples/graphics/CS580HW61.html) | Developed a graphics library, to render 3-D objects. Created in JavaScript, with an aim to render a 3-D object just like real life objects by adding lighting, shading and texture effects. |
 | [Basic Java Script Form](https://sanskriti1991.github.io/web-samples/travel_fund_document.html#)    | Basic javascript form to do calculations and dynamically generate rows. |
-| [![EbayUI](https://sanskriti1991.github.io/web-samples/eBaySearchTool/ebayUI.png)](https://github.com/sanskriti1991/web-samples/tree/gh-pages/eBaySearchTool) | Jquery validations and bootstrap used to design ebay custom search filter options. |
-| [![MockUpBootstrap](https://sanskriti1991.github.io/web-samples/MockUpBootstrap/MWP.png)](https://github.com/sanskriti1991/web-samples/tree/gh-pages/MockUpBootstrap) | Bootstarp and Javascript to design drop downs with icons. |
+
+Jquery validations and bootstrap used to design ebay custom search filter options.
+
+[![EbayUI](https://sanskriti1991.github.io/web-samples/eBaySearchTool/ebayUI.png)](https://github.com/sanskriti1991/web-samples/tree/gh-pages/eBaySearchTool)
+
+Bootstarp and Javascript to design drop downs with icons.
+
+[![MockUpBootstrap](https://sanskriti1991.github.io/web-samples/MockUpBootstrap/MWP.png)](https://github.com/sanskriti1991/web-samples/tree/gh-pages/MockUpBootstrap) 
 
 ### Demo reel 
 Compilation of several computer animation and gaming projects. I worked on a team/ individual while pursuing MS in computer science at USC (Aug2014- May 2016)
