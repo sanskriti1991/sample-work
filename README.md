@@ -1,6 +1,6 @@
 # Sanskriti | itirksnaS
 
-Software Engineer skilled in implementing machine learning systems with python and scikit learn library with over 3 years of experience as a web application developer with background of ecommerce, telecom and education industry. I enjoy photography, travelling and cartoons.
+Software Engineer skilled in implementing machine learning systems with python and scikit learn library with over 7 years of experience as a web application developer with background of ecommerce, telecom and education industry. I enjoy photography, travelling and cartoons.
 
 
 ### Machine Learning Projects - Udacity's Nanodegree program 2018
